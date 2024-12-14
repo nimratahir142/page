@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    background-image: linear-gradient(rgb(75, 40, 40),rgb(252, 123, 145),rgb(248, 43, 43));
+}
+div{
+    
+    display: inline-block;
+}
+#left{
+    margin-left: 100px;
+}
+#me{
+    margin-left: 20px; 
+}
+#name{
+    margin-left: 700px;
+}
+#class{
+    margin-left: 20px;
+    border: solid black;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+}
+div{
+#pass{
+    height: 450px;
+    width: 1700px; 
+    border: 1px solid black;
+    }
+    #odd{
+        
+        font-family: Verdana; 
+        font-size: 100px;
+    }
+    #fail{
+    margin-top: 50px;
+        margin-left: 150px;
+    }
+    #right{
+        margin-top: 50px;
+         border-radius: 50px;
+        background-color: black;
+        border: solid black;
+        width: 170px;
+        height: 50px;
+        color: white;
+        
+        margin-left: 150px;
+    }
+    #red{ 
+        margin: 20px;
+    }
+    #blue{
+        margin-left: 250px;
+    }
+}
